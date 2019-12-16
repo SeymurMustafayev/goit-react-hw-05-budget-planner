@@ -1,0 +1,9 @@
+const types = {
+  BUDGET_ADD: 'BUDGET_ADD',
+
+  // EXPENSE
+
+  EXPENSE_NOTE_ADD: 'EXPENSE_NOTE_ADD',
+  EXPENSE_NOTE_DELETE: 'EXPENSE_NOTE_DELETE',
+};
+export default types;
